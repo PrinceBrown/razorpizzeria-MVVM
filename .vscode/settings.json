@@ -1,0 +1,5 @@
+{
+    "dataworkspace.excludedProjects": [
+        "RazorPizzeriaDB/RazorPizzeriaDB.sqlproj"
+    ]
+}
